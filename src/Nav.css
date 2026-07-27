@@ -14,13 +14,17 @@
 }
 .nav_logo {
     position: fixed;
-    left: 10;
-    width: 80px;
-    object-fit: contain;
+    left: 20px;
+    color: #1fb6a6;
+    font-weight: 800;
+    font-size: 24px;
+    letter-spacing: 0.5px;
 }
 .nav_avatar {
     position: fixed;
     right: 20px;
     width: 30px;
-    object-fit: contain;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #1fb6a6;
 }
